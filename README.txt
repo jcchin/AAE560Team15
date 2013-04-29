@@ -1,7 +1,7 @@
 AAE560-Team15
 ============
 AAE560 Final Project Team 15
-size ~ 1.5GB
+size ~ 750MB, 500 files
 
 Click "Zip" Button to download the code
 
